@@ -86,8 +86,8 @@ dmypy.json
 ehthumbs.db
 Thumbs.db
 
-# Generated GIF files (optional - you might want to keep these for demo purposes)
-# *.gif
+# Exclude large GIFs
+*128.gif
 
 # IDE files
 .vscode/
